@@ -2,35 +2,52 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following statements about immunoprecipitation (IP) is NOT true?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "IP is a method that uses an antibody that binds to a particular protein to isolate and concentrate that protein from a sample.",
+        "b": "Because Protein A or Protein G beads attach to the Fc region of antibodies, making it easier to capture the antibody-protein complex, they are frequently utilized in IP.",
+        "c": "Because immunoprecipitation only enables the isolation of individual proteins, it cannot be used to investigate protein-protein interactions.",
+        "d": "The washing procedure, which aids in removing other components and proteins that are not particularly bound from the beads, is one of the most important procedures in IP."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following sums up immunoprecipitation's (IP) main goal the best?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To enhance particular DNA sequences",
+        "b": "To calculate the protein content of a sample",
+        "c": "Sorting proteins according to how electrically charged they are",
+        "d": "Using an antibody to separate a particular protein from a complicated combination"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Of the following, which one is crucial to take into account when choosing an antibody for immunoprecipitation?",
+      "answers": {
+        "a": "The target protein's isoelectric point",
+        "b": "The antibody's solubility in water-based solutions",
+        "c": "The antibody's affinity and specificity for the target protein",
+        "d": "The antibody's molecular weight"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
