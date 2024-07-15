@@ -1,5 +1,5 @@
 let currentAnimation = 0;
-const animations = Array.from({length: 13}, (_, i) => `./json/Step_${i+1}.json`);
+const animations = Array.from({length: 14}, (_, i) => `./json/Step_${i+1}.json`);
 let animationInstance = null;
 let currentProcedure = null;
 
@@ -17,7 +17,8 @@ var allProcedures = [
     '10. Add 500µL of IP Lysis/Wash Buffer to the tube and gently mix. Collect the beads and discard the supernatant. Repeat this wash twice',
     '11. Add 500µL of ultra pure water to the tube and gently mix. Collect the beads on a magnetic stand and discard the supernatant',
     '12. Add Elution Buffer to the tube. Incubate the tube at RT with mixing for 10 minutes. Magnetically separate the beads and save the supernatant containing the target antigen',
-    '13. To neutralize the low pH, add of Neutralization Buffer for each of elute'
+    '13. To neutralize the low pH, add of Neutralization Buffer for each of elute',
+    '14. Avishi - Please give me the text for this step'
 ];
 
 import { tooltips } from './tooltip.js';
