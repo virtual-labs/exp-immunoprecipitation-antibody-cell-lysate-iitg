@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which form of immunoprecipitation is specifically designed to study protein-DNA interactions?",
+      "question": "1. Which form of immunoprecipitation is specifically designed to study protein-DNA interactions?",
       "answers": {
         "a": "Co-immunoprecipitation",
         "b": "Chromatin immunoprecipitation",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In the preparation of immune complexes, what is the typical ratio of Lysis Buffer to the protein sample?",
+      "question": "2. In the preparation of immune complexes, what is the typical ratio of Lysis Buffer to the protein sample?",
       "answers": {
         "a": "1:10",
         "b": "10:1",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which type of beads should be used for immunoprecipitation when working with a polyclonal antibody?",
+      "question": "3. Which type of beads should be used for immunoprecipitation when working with a polyclonal antibody?",
       "answers": {
         "a": "Protein G-coupled beads",
         "b": "Agarose beads",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "At what temperature and for how long should the immune complex mixture be incubated?",
+      "question": "4. At what temperature and for how long should the immune complex mixture be incubated?",
       "answers": {
         "a": "4 degrees Celsius for 1 hour",
         "b": "4 degrees Celsius for 4 hours",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which buffer is added to the precipitate after centrifuging the Sepharose beads mixture to prepare it for use?",
+      "question": "5. Which buffer is added to the precipitate after centrifuging the Sepharose beads mixture to prepare it for use?",
       "answers": {
         "a": "PBS",
         "b": "Saline solution",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the purpose of boiling the mixture at 100 degrees Celsius for 5 minutes after adding the Loading Buffer?",
+      "question": "6. What is the purpose of boiling the mixture at 100 degrees Celsius for 5 minutes after adding the Loading Buffer?",
       "answers": {
         "a": "To separate the antigen-antibody complex",
         "b": "To denature the proteins",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which elution buffer would you use if you want to perform a western blot analysis on the isolated proteins?",
+      "question": "7. Which elution buffer would you use if you want to perform a western blot analysis on the isolated proteins?",
       "answers": {
         "a": "SDS Sample Elution Buffer",
         "b": "Low pH elution buffer",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the role of the rotary agitator in the immunoprecipitation protocol?",
+      "question": "8. What is the role of the rotary agitator in the immunoprecipitation protocol?",
       "answers": {
         "a": "To mix the Sepharose beads with the lysis buffer",
         "b": "To incubate the mixture of lysate and beads",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Why might the Sepharose beads be washed twice before the buffer is added in the preparation step?",
+      "question": "9. Why might the Sepharose beads be washed twice before the buffer is added in the preparation step?",
       "answers": {
         "a": "To remove any unbound antibodies",
         "b": "To ensure the beads are completely clean",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which step ensures the elimination of unbound materials after the incubation period in the immunoprecipitation protocol?",
+      "question": "10. Which step ensures the elimination of unbound materials after the incubation period in the immunoprecipitation protocol?",
       "answers": {
         "a": "Adding the Lysis Buffer",
         "b": "Centrifuging the mixture and washing with Lysis Buffer three times",

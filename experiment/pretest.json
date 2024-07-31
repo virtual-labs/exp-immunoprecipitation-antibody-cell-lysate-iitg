@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which of the following statements about immunoprecipitation (IP) is NOT true?",
+      "question": "1. Which of the following statements about immunoprecipitation (IP) is NOT true?",
       "answers": {
         "a": "IP is a method that uses an antibody that binds to a particular protein to isolate and concentrate that protein from a sample.",
         "b": "Because Protein A or Protein G beads attach to the Fc region of antibodies, making it easier to capture the antibody-protein complex, they are frequently utilized in IP.",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following sums up immunoprecipitation's (IP) main goal the best?",
+      "question": "2. Which of the following sums up immunoprecipitation's (IP) main goal the best?",
       "answers": {
         "a": "To enhance particular DNA sequences",
         "b": "To calculate the protein content of a sample",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Of the following, which one is crucial to take into account when choosing an antibody for immunoprecipitation?",
+      "question": "3. Of the following, which one is crucial to take into account when choosing an antibody for immunoprecipitation?",
       "answers": {
         "a": "The target protein's isoelectric point",
         "b": "The antibody's solubility in water-based solutions",
