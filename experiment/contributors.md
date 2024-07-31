@@ -8,5 +8,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Shraddha More | shmore@rnd.iitg.ac.in | IIT Guwahati | Centre for Educational Technology (CET) |
 | 2 | Avishi Sharma | avishi@iitg.ac.in | IIT Guwahati | Biosciences and Bioengineering |
-| 3 | Rohit Suhas Kondaye | rohit.kondaye@iitg.ac.in | IIT Guwahati | Department of Design |
-| 4 | Sakshi Mallah | s.mallah@iitg.ac.in | IIT Guwahati | Department of Design |
+| 3 | Elika | e.elika@iitg.ac.in | IIT Guwahati | Biosciences and Bioengineering |
+| 4 | Rohit Suhas Kondaye | rohit.kondaye@iitg.ac.in | IIT Guwahati | Department of Design |
+| 5 | Sakshi Mallah | s.mallah@iitg.ac.in | IIT Guwahati | Department of Design |

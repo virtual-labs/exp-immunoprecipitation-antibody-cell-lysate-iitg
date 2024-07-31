@@ -28,3 +28,10 @@ It is incubated at 4 degrees for 1 hour to let the immune complex formed<br>
 * The isolated proteins can undergo a western blot for further analysis.<br>
 
 <i>*The Antibody Datasheet can be used to check the amount of Antibody concentration to be used.</i>
+
+<br><br>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <figure class="video_container" style="width: 600px; height: 350px;">
+    <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/videoseries?si=nIh85OYNOJqI8bLR&amp;list=PLTkVi3dAX_-_iUVu9IZoy_ns8dcO1xqeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </figure>
+</div>
