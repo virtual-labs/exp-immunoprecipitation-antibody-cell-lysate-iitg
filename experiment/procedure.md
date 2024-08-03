@@ -29,6 +29,37 @@ It is incubated at 4 degrees for 1 hour to let the immune complex formed<br>
 
 <i>*The Antibody Datasheet can be used to check the amount of Antibody concentration to be used.</i>
 
+#### Protocol I: Lysis of Cell Monolayer (Adherent) Cultures
+
+1. Carefully remove the culture medium from confluent cells.
+2. Wash the cells once with PBS (phosphate-buffered saline).
+3. Add ice-cold lysis/wash buffer to the cells and incubate on ice for 5 minutes with periodic mixing.
+4. Transfer the lysate to a microcentrifuge tube and centrifuge at high speed to pellet the cell debris.
+5. Transfer the supernatant to a new tube for protein concentration determination and further analysis.
+
+#### Manual Immunoprecipitation
+
+Note: To ensure bead homogeneity, mix the vial thoroughly by repeated inversion, gentle vortexing, or using a rotating platform.
+1. Place an appropriate amount of Protein A/G magnetic beads into a microcentrifuge tube.
+2. Add lysis/wash buffer to the beads and gently vortex to mix.
+3. Place the tube into a magnetic stand to collect the beads against the side of the tube. Remove and discard the supernatant.
+4. Add more lysis/wash buffer to the tube. Invert the tube several times or gently vortex to mix, then collect the beads with the magnetic stand. Remove and discard the supernatant.
+5. Add the antigen sample/antibody mixture to the tube containing pre-washed magnetic beads and incubate at room temperature for 1 hour with mixing.
+6. Collect the beads with a magnetic stand, remove the unbound sample, and save them for analysis.
+7. Add lysis/wash buffer to the tube and gently mix. Collect the beads and discard the
+supernatant. Repeat this wash step twice.
+8. Add ultra-pure water to the tube and gently mix. Collect the beads on a magnetic stand and discard the supernatant.
+9. Low-pH Elution: Add elution buffer to the tube and incubate at room temperature with mixing for 10 minutes. Magnetically separate the beads and save the supernatant containing the target antigen. To neutralize the low pH, add a neutralization buffer to the eluate.
+
+#### SDS-PAGE
+
+1. Prepare the gel according to the laboratory instructions.
+2. Mix the protein samples with the sample buffer and heat at 95°C for 5 minutes.
+3. Load the samples and molecular weight marker into the wells of the gel.
+4. Run the gel at a constant voltage until the dye front reaches the bottom of the gel.
+5. Carefully remove the gel from the apparatus and proceed with the desired staining or transfer procedure for further analysis.
+
+
 <br><br>
 <div style="display: flex; justify-content: center; align-items: center;">
   <figure class="video_container" style="width: 600px; height: 350px;">
