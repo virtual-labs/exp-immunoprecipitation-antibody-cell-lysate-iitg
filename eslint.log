@@ -1,0 +1,15 @@
+
+/home/runner/work/exp-immunoprecipitation-antibody-cell-lysate-iitg/exp-immunoprecipitation-antibody-cell-lysate-iitg/experiment/simulation/js/immuno.js
+   24:10  warning  'tooltips' is defined but never used     no-unused-vars
+   25:10  warning  'showTooltip' is defined but never used  no-unused-vars
+  105:48  warning  'event' is defined but never used        no-unused-vars
+  147:25  warning  'lottie' is not defined                  no-undef
+  162:24  warning  'index' is defined but never used        no-unused-vars
+  163:34  warning  'reject' is defined but never used       no-unused-vars
+
+/home/runner/work/exp-immunoprecipitation-antibody-cell-lysate-iitg/exp-immunoprecipitation-antibody-cell-lysate-iitg/experiment/simulation/js/tooltip.js
+   1:48  warning  'event' is defined but never used  no-unused-vars
+  49:46  warning  'event' is defined but never used  no-unused-vars
+
+✖ 8 problems (0 errors, 8 warnings)
+

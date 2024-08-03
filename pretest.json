@@ -1,0 +1,226 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following statements about immunoprecipitation (IP) is NOT true?",
+      "answers": {
+        "a": "IP is a method that uses an antibody that binds to a particular protein to isolate and concentrate that protein from a sample.",
+        "b": "Because Protein A or Protein G beads attach to the Fc region of antibodies, making it easier to capture the antibody-protein complex, they are frequently utilized in IP.",
+        "c": "Because immunoprecipitation only enables the isolation of individual proteins, it cannot be used to investigate protein-protein interactions.",
+        "d": "The washing procedure, which aids in removing other components and proteins that are not particularly bound from the beads, is one of the most important procedures in IP."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which of the following sums up immunoprecipitation's (IP) main goal the best?",
+      "answers": {
+        "a": "To enhance particular DNA sequences",
+        "b": "To calculate the protein content of a sample",
+        "c": "Sorting proteins according to how electrically charged they are",
+        "d": "Using an antibody to separate a particular protein from a complicated combination"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Of the following, which one is crucial to take into account when choosing an antibody for immunoprecipitation?",
+      "answers": {
+        "a": "The target protein's isoelectric point",
+        "b": "The antibody's solubility in water-based solutions",
+        "c": "The antibody's affinity and specificity for the target protein",
+        "d": "The antibody's molecular weight"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. In the immunoprecipitation (IP) process, what provides stable support for immobilizing the antibody-protein complex?",
+      "answers": {
+        "a": "Agarose gel",
+        "b": "Magnetic, agarose or sepharose beads coupled with Protein A or G",
+        "c": "Centrifugation pellets",
+        "d": "Wash buffer"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is the primary reason for using Protein A or G in the immunoprecipitation process?",
+      "answers": {
+        "a": "They directly bind to the target antigen.",
+        "b": "They have a high affinity for immunoglobulins and bind to the Fc region of the antibody.",
+        "c": "They act as a stabilizing agent for the antigen.",
+        "d": "They are used to wash away unbound proteins."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. During the immunoprecipitation procedure, what is the role of the centrifugation step?",
+      "answers": {
+        "a": "To mix the antibody and antigen together",
+        "b": "To bind the antibody to the beads",
+        "c": "To separate the bead-bound complex from the supernatant",
+        "d": "To elute the antibody-protein complex from the beads"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. What does the term 'high affinity' refer to in the context of Immunoprecipitation?",
+      "answers": {
+        "a": "The strong binding interaction between the antibody and the target antigen",
+        "b": "The strong binding interaction between the antigen and the beads",
+        "c": "The ability of the beads to bind to multiple antigens",
+        "d": "The ability of the buffer to maintain pH stability"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. In co-immunoprecipitation (Co-IP), what additional information can be obtained compared to standard Immunoprecipitation (IP)?",
+      "answers": {
+        "a": "The identity of the target antigen",
+        "b": "The interaction partners or associated protein complexes of the target antigen",
+        "c": "The structure of the antibody",
+        "d": "The pH of the buffer solution used"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. What is the function of the wash buffer in the immunoprecipitation process?",
+      "answers": {
+        "a": "To dissociate the antibody-antigen complex",
+        "b": "To remove unbound complexes, antibodies, or impurities",
+        "c": "To stabilize the pH during the reaction",
+        "d": "To bind to the Fc region of the antibody"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Which type of Immunoprecipitation is specifically used to study protein-RNA interactions?",
+      "answers": {
+        "a": "Co-immunoprecipitation (Co-IP)",
+        "b": "Chromatin immunoprecipitation (ChIP)",
+        "c": "RNA immunoprecipitation",
+        "d": "Reverse Immunoprecipitation"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "11. What assumption is made when proteins are co-precipitated in Co-IP?",
+      "answers": {
+        "a": "The proteins are contaminants",
+        "b": "The proteins are unrelated to the target antigen",
+        "c": "The proteins are functionally related to the target antigen at the cellular level",
+        "d": "The proteins are involved in the pH stabilization of the buffer"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "12. Which analysis techniques can be used to examine the separated complexes and antigens after Immunoprecipitation?",
+      "answers": {
+        "a": "Chromatography and Spectrophotometry",
+        "b": "SDS-PAGE, staining, Western Blotting, or Mass Spectrometry",
+        "c": "ELISA and PCR",
+        "d": "Flow Cytometry and Microscopy"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "13. What distinguishes Phospho-specific Immunoprecipitation from other types of IP?",
+      "answers": {
+        "a": "It isolates DNA instead of proteins.",
+        "b": "It specifically isolates and studies phosphorylated proteins.",
+        "c": "It uses a different type of antibody.",
+        "d": "It does not require beads for immobilization"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

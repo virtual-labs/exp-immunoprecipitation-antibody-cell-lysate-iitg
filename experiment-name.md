@@ -1,0 +1,1 @@
+## Immunoprecipitation of protein from Cell Lysate using Antibody
