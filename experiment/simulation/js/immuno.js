@@ -14,8 +14,8 @@ var allProcedures = [
     '7. Add ice cold IP Lysis/Wash Buffer to the cell pellet',
     '8. Place Pierce Protein A/G Magnetic Beads into a 1.5mL microcentrifuge tube. Add IP Lysis/Wash Buffer to the beads and gently vortex to mix. Place the tube into a magnetic stand to collect the beads against the side of the tube. Remove and discard the supernatant',
     '9. Add the antigen sample/antibody mixture to the tube containing pre-washed magnetic beads and incubate at room temperature for 1 hour with mixing. Collect the beads with a magnetic stand, remove the unbound sample and save for analysis',
-    '10. Add 500µL of IP Lysis/Wash Buffer to the tube and gently mix. Collect the beads and discard the supernatant. Repeat this wash twice',
-    '11. Add 500µL of ultra pure water to the tube and gently mix. Collect the beads on a magnetic stand and discard the supernatant',
+    '10. Add IP Lysis/Wash Buffer to the tube and gently mix. Collect the beads and discard the supernatant. Repeat this wash twice',
+    '11. Add ultra pure water to the tube and gently mix. Collect the beads on a magnetic stand and discard the supernatant',
     '12. Add Elution Buffer to the tube. Incubate the tube at RT with mixing for 10 minutes. Magnetically separate the beads and save the supernatant containing the target antigen',
     '13. To neutralize the low pH, add of Neutralization Buffer for each of elute',
     '14. SDS-PAGE: Prepare the SDS-PAGE gel and set up the electrophoresis apparatus. Mix the eluate with SDS sample buffer and heat. Load the samples and a molecular weight marker onto the gel. Run the gel at an appropriate voltage until the dye front reaches the bottom. Analyze the gel to determine the presence and size of the target antigen'
