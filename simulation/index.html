@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Add CSS at the head of HTML file -->
+    <link rel="stylesheet" href="./css/main.css">
+	<link rel="stylesheet" href="./css/immuno.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie.min.js" crossorigin="anonymous"></script>
+</head>
+<body>
+	<div id="main_container">
+		<div id="left_container">
+			<div id="animation_container">
+				<div id="temp_container">
+				</div>
+			</div>                             
+			<div id="button_controls">
+				<button id="start">Start</button>
+				<button id="play-all" style="display: none;">Play All</button>                        
+				<button id="prev" style="display: none;">Previous</button>
+				<button id="next" style="display: none;">Next</button>
+			</div> <!-- button_controls -->
+			<div id="tooltip_display" style="display: none;">
+				<button id="close-tooltip" class="close-button">X</button>
+				<div class="tooltip-row">
+					<div class="tooltip-column"><img id="tooltip-image" alt="Icon"></div>
+					<div class="tooltip-column"><span id="tooltip-text"></span></div>
+				</div><!-- tooltip-row -->
+			</div><!-- tooltip_display -->                    
+		</div><!-- left_container -->
+		<div id="right_container">
+			<h3 id="procedure_title">Procedure</h3>
+			<div id="procedure_container"></div>                            
+			<div class="controlPanel">                            
+				<button id="extra-button">Extra</button>
+				<div id="icon_container" style="display: none;">
+					<img id="button_flask" src="./images/button_flask.png" class="tooltip-icon" data-tooltip="Flask">
+					<img id="button_petri_dish" src="./images/button_petri_dish.png" class="tooltip-icon" data-tooltip="Petri Dish">                                                                       
+					<img id="button_pipette" src="./images/button_pipette.png" class="tooltip-icon" data-tooltip="Pipette">
+					<img id="button_pbs" src="./images/button_PBS.png" class="tooltip-icon" data-tooltip="PBS">                                    
+					<img id="button_eppendorf_tube" src="./images/button_eppendorf_tube.png" class="tooltip-icon" data-tooltip="Eppendorf Tube">                                    
+					<button id="close-icon-container">X</button>
+				</div>
+			</div><!-- controlPanel -->
+		</div><!-- right_container -->
+	</div><!-- main_container -->
+
+	<!-- Add JS at the bottom of HTML file --> 
+        <script src="./js/main.js"></script>
+		<script type="module" src="./js/immuno.js"></script>    
+    	<script type="module" src="./js/tooltip.js"></script>
+<script src="../assets/js/iframeResize.js"></script>
+        
+        </body>
+</html>
